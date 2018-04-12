@@ -21,7 +21,7 @@ public class Application implements CommandLineRunner {
 
     //@Autowired
     //private CustomerRepository repository;
-	//TEST GIT
+	//SpringBootMongo.v_0.1
 
     @Autowired
     MongoTemplate mongoTemplate;
